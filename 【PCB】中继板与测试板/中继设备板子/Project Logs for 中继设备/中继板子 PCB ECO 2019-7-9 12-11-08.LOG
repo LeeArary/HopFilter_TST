@@ -1,0 +1,68 @@
+Removed Member From Class: ClassName=中继板子 Member=*23
+Removed Member From Class: ClassName=中继板子 Member=R22
+Change Component Footprint: Designator=弯针插座1 Old Footprint=弯针插座4p New Footprint=XH2.54-4P
+Change Component Designator: OldDesignator=*2 NewDesignator=*3
+Change Component Designator: OldDesignator=*3 NewDesignator=*6
+Change Component Designator: OldDesignator=*4 NewDesignator=*7
+Change Component Designator: OldDesignator=*5 NewDesignator=*8
+Change Component Designator: OldDesignator=*6 NewDesignator=*9
+Change Component Designator: OldDesignator=*23 NewDesignator=*2
+Change Component Designator: OldDesignator=P3 NewDesignator=P4
+Change Component Designator: OldDesignator=P4 NewDesignator=P5
+Change Component Designator: OldDesignator=P5 NewDesignator=P3
+Change Component Designator: OldDesignator=R2 NewDesignator=R3
+Change Component Designator: OldDesignator=R22 NewDesignator=R2
+Added Component: Designator=R6(R 0603)
+Added Component: Designator=R7(R 0603)
+Added Component: Designator=USB-Min1(USB-A/S_A)
+Added Pin To Net: NetName=GND Pin=*6-1
+Added Pin To Net: NetName=GND Pin=*6-1
+Added Pin To Net: NetName=GND Pin=*6-1
+Added Pin To Net: NetName=GND Pin=*6-1
+Added Pin To Net: NetName=GND Pin=*6-1
+Added Pin To Net: NetName=GND Pin=*6-1
+Added Pin To Net: NetName=GND Pin=*6-1
+Added Pin To Net: NetName=GND Pin=*6-1
+Added Pin To Net: NetName=GND Pin=*6-1
+Added Pin To Net: NetName=GND Pin=*7-1
+Added Pin To Net: NetName=GND Pin=*7-1
+Added Pin To Net: NetName=GND Pin=*7-1
+Added Pin To Net: NetName=GND Pin=*7-1
+Added Pin To Net: NetName=GND Pin=*7-1
+Added Pin To Net: NetName=GND Pin=*7-1
+Added Pin To Net: NetName=GND Pin=*7-1
+Added Pin To Net: NetName=GND Pin=*7-1
+Added Pin To Net: NetName=GND Pin=*7-1
+Added Pin To Net: NetName=GND Pin=*8-1
+Added Pin To Net: NetName=GND Pin=*8-1
+Added Pin To Net: NetName=GND Pin=*8-1
+Added Pin To Net: NetName=GND Pin=*8-1
+Added Pin To Net: NetName=GND Pin=*8-1
+Added Pin To Net: NetName=GND Pin=*8-1
+Added Pin To Net: NetName=GND Pin=*8-1
+Added Pin To Net: NetName=GND Pin=*8-1
+Added Pin To Net: NetName=GND Pin=*8-1
+Added Pin To Net: NetName=GND Pin=*9-1
+Added Pin To Net: NetName=GND Pin=*9-1
+Added Pin To Net: NetName=GND Pin=*9-1
+Added Pin To Net: NetName=GND Pin=*9-1
+Added Pin To Net: NetName=GND Pin=*9-1
+Added Pin To Net: NetName=GND Pin=*9-1
+Added Pin To Net: NetName=GND Pin=*9-1
+Added Pin To Net: NetName=GND Pin=*9-1
+Added Pin To Net: NetName=GND Pin=*9-1
+Added Pin To Net: NetName=VCC Pin=R6-1
+Added Pin To Net: NetName=PB14 Pin=R6-2
+Added Pin To Net: NetName=VCC Pin=R7-1
+Added Pin To Net: NetName=PB15 Pin=R7-2
+Added Pin To Net: NetName=VCC Pin=USB-Min1-1
+Added Pin To Net: NetName=Net1_1 Pin=USB-Min1-2
+Added Pin To Net: NetName=Net2_1 Pin=USB-Min1-3
+Change Net Name : Old Net Name=Net*2_2 New Net Name=Net*3_2
+Change Net Name : Old Net Name=Net*23_2 New Net Name=Net*2_2
+Added Member To Class: ClassName=中继板子 Member=Component *9 定位孔
+Added Member To Class: ClassName=中继板子 Member=Component R3 1k
+Added Member To Class: ClassName=中继板子 Member=Component R6 Res2
+Added Member To Class: ClassName=中继板子 Member=Component R7 Res2
+Added Member To Class: ClassName=中继板子 Member=Component USB-Min1 USB-Mini
+Added Room: Name=中继板子

@@ -1,0 +1,45 @@
+Removed Pin From Net: NetName=PB1 Pin=P5-3
+Removed Pin From Net: NetName=PB0 Pin=P5-4
+Removed Pin From Net: NetName=PB3 Pin=P5-5
+Removed Pin From Net: NetName=PB2 Pin=P5-6
+Removed Pin From Net: NetName=PB5 Pin=P5-7
+Removed Pin From Net: NetName=PB4 Pin=P5-8
+Removed Pin From Net: NetName=PB7 Pin=P5-9
+Removed Pin From Net: NetName=PB6 Pin=P5-10
+Removed Pin From Net: NetName=PB9 Pin=P5-11
+Removed Pin From Net: NetName=PB8 Pin=P5-12
+Removed Pin From Net: NetName=PB11 Pin=P5-13
+Removed Pin From Net: NetName=PB10 Pin=P5-14
+Removed Pin From Net: NetName=PB13 Pin=P5-15
+Removed Pin From Net: NetName=PB12 Pin=P5-16
+Removed Pin From Net: NetName=PB15 Pin=P5-17
+Removed Pin From Net: NetName=PB14 Pin=P5-18
+Added Component: Designator=R7(R 0603)
+Added Component: Designator=ÍäÕë²å×ù1(XH2.54-4P)
+Added Pin To Net: NetName=PB0 Pin=P5-3
+Added Pin To Net: NetName=PB1 Pin=P5-4
+Added Pin To Net: NetName=PB2 Pin=P5-5
+Added Pin To Net: NetName=PB3 Pin=P5-6
+Added Pin To Net: NetName=PB4 Pin=P5-7
+Added Pin To Net: NetName=PB5 Pin=P5-8
+Added Pin To Net: NetName=PB6 Pin=P5-9
+Added Pin To Net: NetName=PB7 Pin=P5-10
+Added Pin To Net: NetName=PB8 Pin=P5-11
+Added Pin To Net: NetName=PB9 Pin=P5-12
+Added Pin To Net: NetName=PB10 Pin=P5-13
+Added Pin To Net: NetName=PB11 Pin=P5-14
+Added Pin To Net: NetName=PB12 Pin=P5-15
+Added Pin To Net: NetName=PB13 Pin=P5-16
+Added Pin To Net: NetName=PB14 Pin=P5-17
+Added Pin To Net: NetName=PB15 Pin=P5-18
+Added Pin To Net: NetName=PB3 Pin=R7-1
+Added Pin To Net: NetName=VCC Pin=R7-2
+Added Pin To Net: NetName=3V3 Pin=ÍäÕë²å×ù1-1
+Added Pin To Net: NetName=SWDIO Pin=ÍäÕë²å×ù1-2
+Added Pin To Net: NetName=SWCLK Pin=ÍäÕë²å×ù1-3
+Added Pin To Net: NetName=GND Pin=ÍäÕë²å×ù1-4
+Added Member To Class: ClassName=ÖÐ¼Ì°å×Ó Member=Component *2 LED1
+Added Member To Class: ClassName=ÖÐ¼Ì°å×Ó Member=Component R2 1k
+Added Member To Class: ClassName=ÖÐ¼Ì°å×Ó Member=Component R7 Res2
+Added Member To Class: ClassName=ÖÐ¼Ì°å×Ó Member=Component ÍäÕë²å×ù1 ÍäÕë²å×ù4p
+Added Room: Name=ÖÐ¼Ì°å×Ó

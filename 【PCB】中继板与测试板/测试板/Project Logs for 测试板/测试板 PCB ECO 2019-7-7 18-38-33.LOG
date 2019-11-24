@@ -1,0 +1,7 @@
+Added Component: Designator=P?(HDR-1X4_H)
+Added Pin To Net: NetName=-150V Pin=P?-1
+Added Pin To Net: NetName=GND Pin=P?-2
+Added Pin To Net: NetName=GND Pin=P?-3
+Added Pin To Net: NetName=+5V Pin=P?-4
+Added Member To Class: ClassName=≤‚ ‘∞Â Member=Component P? Header 4
+Added Room: Name=≤‚ ‘∞Â

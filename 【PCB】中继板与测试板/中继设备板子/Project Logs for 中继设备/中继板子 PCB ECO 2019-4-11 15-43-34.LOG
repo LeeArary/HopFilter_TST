@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=3V3 Pin=*1-12
+Removed Pin From Net: NetName=GND Pin=*1-13
+Removed Pin From Net: NetName=3V3 Pin=*1-18
+Removed Pin From Net: NetName=GND Pin=*1-19
+Removed Pin From Net: NetName=3V3 Pin=*1-31
+Removed Pin From Net: NetName=GND Pin=*1-32
+Removed Pin From Net: NetName=3V3 Pin=*1-47
+Removed Pin From Net: NetName=GND Pin=*1-48
+Removed Pin From Net: NetName=3V3 Pin=*1-63
+Removed Pin From Net: NetName=GND Pin=*1-64
+Added Pin To Net: NetName=GND Pin=*1-12
+Added Pin To Net: NetName=3V3 Pin=*1-13
+Added Pin To Net: NetName=GND Pin=*1-18
+Added Pin To Net: NetName=3V3 Pin=*1-19
+Added Pin To Net: NetName=GND Pin=*1-31
+Added Pin To Net: NetName=3V3 Pin=*1-32
+Added Pin To Net: NetName=GND Pin=*1-47
+Added Pin To Net: NetName=3V3 Pin=*1-48
+Added Pin To Net: NetName=GND Pin=*1-63
+Added Pin To Net: NetName=3V3 Pin=*1-64
+Added Room: Name=ÖÐ¼Ì°å×Ó

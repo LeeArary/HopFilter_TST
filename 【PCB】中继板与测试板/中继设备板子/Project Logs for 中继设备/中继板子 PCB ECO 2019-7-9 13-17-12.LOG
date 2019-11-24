@@ -1,0 +1,13 @@
+Change Component Designator: OldDesignator=*6 NewDesignator=*4
+Change Component Designator: OldDesignator=*7 NewDesignator=*5
+Change Component Designator: OldDesignator=*8 NewDesignator=*6
+Change Component Designator: OldDesignator=*9 NewDesignator=*7
+Change Component Designator: OldDesignator=P3 NewDesignator=P1
+Change Component Designator: OldDesignator=P4 NewDesignator=P2
+Change Component Designator: OldDesignator=P5 NewDesignator=P3
+Change Component Designator: OldDesignator=R7 NewDesignator=R5
+Added Component: Designator=R4(R 0603)
+Added Pin To Net: NetName=PB3 Pin=R4-1
+Added Pin To Net: NetName=3V3 Pin=R4-2
+Added Member To Class: ClassName=中继板子 Member=Component R4 Res2
+Added Room: Name=中继板子

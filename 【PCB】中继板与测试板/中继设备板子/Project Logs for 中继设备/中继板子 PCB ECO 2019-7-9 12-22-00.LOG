@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=PA7 Pin=*2-1
+Removed Pin From Net: NetName=GND Pin=R2-2
+Added Pin To Net: NetName=3V3 Pin=*2-1
+Added Pin To Net: NetName=PA7 Pin=R2-2

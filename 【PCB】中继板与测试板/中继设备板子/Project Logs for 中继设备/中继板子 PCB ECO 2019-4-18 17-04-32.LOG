@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=3V3 Pin=U1-4
+Added Component: Designator=P5(HDR-1x2)
+Added Pin To Net: NetName=Net*1_42 Pin=*1-42
+Added Pin To Net: NetName=Net*1_42 Pin=P5-2
+Added Net: Name=Net*1_42
+Added Pin To Net: NetName=Net*1_43 Pin=*1-43
+Added Pin To Net: NetName=Net*1_43 Pin=P5-1
+Added Net: Name=Net*1_43
+Added Member To Class: ClassName=中继板子 Member=Component P5 Header 2
+Added Room: Name=中继板子

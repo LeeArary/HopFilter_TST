@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=P3 Old Footprint=PH2.0 D-L-2P New Footprint=HDR-1x2
+Change Component Footprint: Designator=+5V Old Footprint=PH2.0 D-W-2P New Footprint=HDR-1X2_H
+Change Component Designator: OldDesignator=+5V NewDesignator=P4
+Change Component Designator: OldDesignator=-150V NewDesignator=P5
+Added Room: Name=≤‚ ‘∞Â

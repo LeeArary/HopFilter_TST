@@ -1,0 +1,62 @@
+Removed Pin From Net: NetName=VCC Pin=5V-1
+Removed Pin From Net: NetName=VCC Pin=5V-2
+Removed Pin From Net: NetName=GND Pin=GND-1
+Removed Pin From Net: NetName=GND Pin=GND-2
+Removed Member From Class: ClassName=Sheet1 Member=5V
+Removed Member From Class: ClassName=Sheet1 Member=GND
+Change Component Designator: OldDesignator=*6 NewDesignator=*5
+Change Component Designator: OldDesignator=*7 NewDesignator=*6
+Added Component: Designator=P1(HDR-1x2)
+Added Component: Designator=P2(HDR-1x2)
+Added Component: Designator=P3(IDC2.54-20P)
+Added Component: Designator=P4(IDC2.54-20P)
+Added Pin To Net: NetName=GND Pin=P1-1
+Added Pin To Net: NetName=GND Pin=P1-2
+Added Pin To Net: NetName=VCC Pin=P2-1
+Added Pin To Net: NetName=VCC Pin=P2-2
+Added Pin To Net: NetName=GND Pin=P3-1
+Added Pin To Net: NetName=GND Pin=P3-2
+Added Pin To Net: NetName=PC8 Pin=P3-3
+Added Pin To Net: NetName=PC0 Pin=P3-4
+Added Pin To Net: NetName=PC9 Pin=P3-5
+Added Pin To Net: NetName=PC1 Pin=P3-6
+Added Pin To Net: NetName=PC10 Pin=P3-7
+Added Pin To Net: NetName=PC2 Pin=P3-8
+Added Pin To Net: NetName=PC11 Pin=P3-9
+Added Pin To Net: NetName=PC3 Pin=P3-10
+Added Pin To Net: NetName=PC12 Pin=P3-11
+Added Pin To Net: NetName=PC4 Pin=P3-12
+Added Pin To Net: NetName=PC13 Pin=P3-13
+Added Pin To Net: NetName=PC5 Pin=P3-14
+Added Pin To Net: NetName=PC14 Pin=P3-15
+Added Pin To Net: NetName=PC6 Pin=P3-16
+Added Pin To Net: NetName=PC15 Pin=P3-17
+Added Pin To Net: NetName=PC7 Pin=P3-18
+Added Pin To Net: NetName=GND Pin=P3-19
+Added Pin To Net: NetName=GND Pin=P3-20
+Added Pin To Net: NetName=GND Pin=P4-1
+Added Pin To Net: NetName=GND Pin=P4-2
+Added Pin To Net: NetName=PB8 Pin=P4-3
+Added Pin To Net: NetName=PB0 Pin=P4-4
+Added Pin To Net: NetName=PB9 Pin=P4-5
+Added Pin To Net: NetName=PB1 Pin=P4-6
+Added Pin To Net: NetName=PB10 Pin=P4-7
+Added Pin To Net: NetName=PB2 Pin=P4-8
+Added Pin To Net: NetName=PB11 Pin=P4-9
+Added Pin To Net: NetName=PB3 Pin=P4-10
+Added Pin To Net: NetName=PB12 Pin=P4-11
+Added Pin To Net: NetName=PB4 Pin=P4-12
+Added Pin To Net: NetName=PB13 Pin=P4-13
+Added Pin To Net: NetName=PB5 Pin=P4-14
+Added Pin To Net: NetName=PB14 Pin=P4-15
+Added Pin To Net: NetName=PB6 Pin=P4-16
+Added Pin To Net: NetName=PB15 Pin=P4-17
+Added Pin To Net: NetName=PB7 Pin=P4-18
+Added Pin To Net: NetName=GND Pin=P4-19
+Added Pin To Net: NetName=GND Pin=P4-20
+Change Class Name : Old Net Name=Sheet1 New Net Name=中继板子
+Added Member To Class: ClassName=中继板子 Member=Component P1 Header 2
+Added Member To Class: ClassName=中继板子 Member=Component P2 Header 2
+Added Member To Class: ClassName=中继板子 Member=Component P3 Header 10X2
+Added Member To Class: ClassName=中继板子 Member=Component P4 Header 10X2
+Added Room: Name=中继板子

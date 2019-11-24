@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=+5V Pin=P2-9
+Removed Pin From Net: NetName=A0 Pin=P2-11
+Removed Pin From Net: NetName=A1 Pin=P2-13
+Removed Pin From Net: NetName=A2 Pin=P2-15
+Removed Pin From Net: NetName=A3 Pin=P2-17
+Removed Pin From Net: NetName=A4 Pin=P2-19
+Removed Pin From Net: NetName=A5 Pin=P2-21
+Removed Pin From Net: NetName=A6 Pin=P2-23
+Removed Pin From Net: NetName=A7 Pin=P2-25
+Removed Pin From Net: NetName=A8 Pin=P2-27
+Removed Pin From Net: NetName=A9 Pin=P2-29
+Removed Pin From Net: NetName=-150V Pin=P2-31
+Removed Member From Class: ClassName=≤‚ ‘∞Â Member=P2
+Added Component: Designator=P?(51≤Â◊˘)
+Added Pin To Net: NetName=+5V Pin=P?-5
+Added Pin To Net: NetName=A0 Pin=P?-6
+Added Pin To Net: NetName=A1 Pin=P?-7
+Added Pin To Net: NetName=A2 Pin=P?-8
+Added Pin To Net: NetName=A3 Pin=P?-9
+Added Pin To Net: NetName=A4 Pin=P?-10
+Added Pin To Net: NetName=A5 Pin=P?-11
+Added Pin To Net: NetName=A6 Pin=P?-12
+Added Pin To Net: NetName=A7 Pin=P?-13
+Added Pin To Net: NetName=A8 Pin=P?-14
+Added Pin To Net: NetName=A9 Pin=P?-15
+Added Pin To Net: NetName=-150V Pin=P?-16
+Added Member To Class: ClassName=≤‚ ‘∞Â Member=Component P? Header 20
+Added Room: Name=≤‚ ‘∞Â

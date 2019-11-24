@@ -1,0 +1,13 @@
+Change Component Footprint: Designator=USB-Min1 Old Footprint=USB Micro New Footprint=USB-MICRO_D
+Added Component: Designator=*23(LED 0805B)
+Added Component: Designator=R22(R 0603)
+Added Pin To Net: NetName=GND Pin=R22-2
+Added Pin To Net: NetName=Net*23_2 Pin=*23-2
+Added Pin To Net: NetName=Net*23_2 Pin=R22-1
+Added Net: Name=Net*23_2
+Added Pin To Net: NetName=PA7 Pin=*1-23
+Added Pin To Net: NetName=PA7 Pin=*23-1
+Added Net: Name=PA7
+Added Member To Class: ClassName=中继板子 Member=Component *23 LED1
+Added Member To Class: ClassName=中继板子 Member=Component R22 1k
+Added Room: Name=中继板子

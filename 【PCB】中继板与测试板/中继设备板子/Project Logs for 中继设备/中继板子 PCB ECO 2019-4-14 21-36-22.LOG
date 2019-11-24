@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=3V3 Pin=U1-4
+Change Component Footprint: Designator=*1 Old Footprint=LQFP64 7x7_L New Footprint=LQFP64 14x14_M
+Added Room: Name=ÖÐ¼Ì°å×Ó
